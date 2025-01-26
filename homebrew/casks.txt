@@ -1,0 +1,12 @@
+1password
+1password-cli
+alfred
+caffeine
+docker
+amazon-q
+font-hack-nerd-font
+insomnia
+iterm2
+rectangle
+spotify
+visual-studio-code
